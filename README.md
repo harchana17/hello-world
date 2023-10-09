@@ -1,2 +1,12 @@
-# hello-world
+# hello-world 
 My first repository on GitHub
+
+NAME: HARCHANA ARULAPPAN
+
+
+COURSE: BACHELOR OF COMPUTER SCIENCE (BIOINFORMATICS)
+
+
+UNIVERSITY: UNIVERSITY OF TECHNOLOGY MALAYSIA
+
+Email: harchana@graduate.utm.my
